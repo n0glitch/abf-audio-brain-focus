@@ -1,7 +1,8 @@
 # 💪🧠 ABF (Audio Brain Focus) Chrome Extension
 
 Enhance your productivity with `ABF (Audio Brain Focus)`, a Chrome extension that allows you to play and mix ambient sounds to create a conducive environment for work or relaxation.
-🔗 Download it here, and please leave a review if you like it: hromewebstore.google.com/detail/abf-audio-brain-focus/ohlfpeiaekgemgbffdkahiljfemoifcl
+
+🔗 Download it here, and please leave a review if you like it: https://chromewebstore.google.com/detail/abf-audio-brain-focus/ohlfpeiaekgemgbffdkahiljfemoifcl
 
 ## ✨ Features
 
